@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ballaSAISAMPATH/ballaSAISAMPATH/main/github_header.svg" alt="GitHub Header" />
-</div>
+
 
 <h1 align="center">Hi there 👋, I'm BALLA SAI SAMPATH</h1>
 
@@ -16,15 +14,13 @@
 
 ### 👨‍💻 About Me:
 
-Hello! I’m a **MERN Stack Developer** with a relentless drive to build solutions that matter. My passion lies in crafting **elegant and scalable web applications** that solve real-world problems. I'm on a mission to push the boundaries of modern development by exploring the fusion of full-stack expertise with cutting-edge **AI capabilities**.
+I'm a **MERN Stack Developer** dedicated to building elegant and scalable web applications. My focus is on crafting clean, efficient solutions that solve real-world problems. I'm currently exploring the integration of **AI capabilities** into full-stack projects.
 
-I believe in the power of code to create meaningful impact. Whether it's digitizing local businesses or building tools for data analysis, my goal is always to deliver clean, efficient, and user-centric software.
-
-- 🔭 **Currently building:** AI-infused MERN applications
-- 🌱 **Learning:** Hugging Face 🤗, scalable system design, and advanced deployment pipelines
-- 💪 **Looking to collaborate on:** Full-stack projects that make a real-world impact
-- 📧 **Reach me at:** saisampath1612@gmail.com
-- ⚡ **Fun fact:** I once built a full-stack MVP in 36 hours and won the sprint, but I still spend hours arguing with `undefined`.
+-   🔭 **Currently building:** AI-infused MERN applications
+-   🌱 **Learning:** Scalable system design and advanced deployment pipelines
+-   💪 **Looking to collaborate on:** Full-stack projects that make a real-world impact
+-   📧 **Reach me at:** saisampath1612@gmail.com
+-   ⚡ **Fun fact:** I once built a full-stack MVP in 36 hours and won the sprint, but I still spend hours arguing with `undefined`.
 
 ---
 
@@ -81,20 +77,21 @@ I work with a variety of modern technologies across the full stack.
 
 ---
 
+
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ballasaisampath&show_icons=true&theme=tokyonight&hide_border=true&title_color=F97316&icon_color=F97316&text_color=E0E0E0&bg_color=1E1E1E" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ballasaisampath&theme=tokyonight&hide_border=true&date_format=%5BYYYY-MM-DD%5D&background=1E1E1E&ring=F97316&fire=F97316&stroke=1E1E1E" alt="GitHub Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ballasaisampath&show_icons=true&hide_border=true&title_color=A366FF&icon_color=A366FF&text_color=E0E0E0&bg_color=1E1E1E" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ballasaisampath&hide_border=true&date_format=%5BYYYY-MM-DD%5D&background=1E1E1E&ring=A366FF&fire=A366FF&stroke=1E1E1E" alt="GitHub Streaks" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ballasaisampath&theme=tokyonight&hide_border=true&bg_color=1E1E1E&color=F97316" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ballasaisampath&hide_border=true&bg_color=1E1E1E&color=A366FF" alt="Activity Graph" />
 </p>
 
 ---
 
-### 🏆 Trophies, Languages, and Coding Activity
+### 🏆 Trophies & Top Languages
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ballasaisampath&theme=onestar&no-frame=true&column=6" alt="GitHub Trophies" />
@@ -104,16 +101,63 @@ I work with a variety of modern technologies across the full stack.
 
 ---
 
+---
+
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Recognition |
-| :--- | :--- | :--- | :--- |
-| **🍽️ [MVGR Canteen](https://github.com/ballaSAISAMPATH/MVGR_canteen-React)** | A digital platform for MVGR college canteen to streamline online orders and improve efficiency. | `React`, `Node.js`, `MongoDB`, `Bootstrap` | - |
-| **🧠 [Sentiment Analyzer](https://github.com/ballaSAISAMPATH/SentimentAnalysis-MERN)** | An AI-powered tool that analyzes customer feedback to provide product-wise sentiment summaries. | `Python`, `Flask`, `HuggingFace`, `React` | 🏆 National-level hackathon winner |
-| **🛒 [ShopSphere](https://github.com/ballaSAISAMPATH/ShopSphere-MERN)** | Connects local businesses with a wider online customer base to boost visibility and sales. | `React`, `Node.js`, `MongoDB` | - |
-| **⚡ [RushToGo](https://github.com/ballaSAISAMPATH/RushToGo)** | A fast-delivery ticket resale platform with secure returns and discounted pricing. | `React`, `Express`, `MongoDB`, `TailwindCSS` | 🏆 National-level hackathon winner |
-
----
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <h4>🍽️ <a href="https://github.com/ballaSAISAMPATH/MVGR_canteen-React">MVGR Canteen</a></h4>
+        <img src="https://via.placeholder.com/400x200.png?text=MVGR+Canteen+Image" alt="MVGR Canteen Project" style="width:100%; max-width:400px;" />
+        <p>A digital platform for the MVGR college canteen to streamline online orders and improve efficiency.</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <h4>🧠 <a href="https://github.com/ballaSAISAMPATH/SentimentAnalysis-MERN">Sentiment Analyzer</a></h4>
+        <img src="https://via.placeholder.com/400x200.png?text=Sentiment+Analyzer+Image" alt="Sentiment Analyzer Project" style="width:100%; max-width:400px;" />
+        <p>An AI-powered tool that analyzes customer feedback to provide product-wise sentiment summaries.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+          <img src="https://img.shields.io/badge/Hugging%20Face-FFD21A?style=for-the-badge&logo=huggingface&logoColor=black" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        </p>
+        <b>🏆 National-level hackathon winner</b>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h4>🛒 <a href="https://github.com/ballaSAISAMPATH/ShopSphere-MERN">ShopSphere</a></h4>
+        <img src="https://via.placeholder.com/400x200.png?text=ShopSphere+Image" alt="ShopSphere Project" style="width:100%; max-width:400px;" />
+        <p>Connects local businesses with a wider online customer base to boost visibility and sales.</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <h4>⚡ <a href="https://github.com/ballaSAISAMPATH/RushToGo">RushToGo</a></h4>
+        <img src="https://via.placeholder.com/400x200.png?text=RushToGo+Image" alt="RushToGo Project" style="width:100%; max-width:400px;" />
+        <p>A fast-delivery ticket resale platform with secure returns and discounted pricing.</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        </p>
+        <b>🏆 National-level hackathon winner</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### Let's build something together!
 
