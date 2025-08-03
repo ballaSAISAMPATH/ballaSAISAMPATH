@@ -82,13 +82,12 @@ I work with a variety of modern technologies across the full stack.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ballasaisampath&show_icons=true&hide_border=true&title_color=A366FF&icon_color=A366FF&text_color=E0E0E0&bg_color=1E1E1E" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ballasaisampath&hide_border=true&date_format=%5BYYYY-MM-DD%5D&background=1E1E1E&ring=A366FF&fire=A366FF&stroke=1E1E1E" alt="GitHub Streaks" />
+  <img src="https://streak-stats.demolab.com/?user=ballasaisampath&hide_border=true&background=1E1E1E&ring=A366FF&fire=A366FF&stroke=1E1E1E&date_format=Y-M-d&dates=E0E0E0&sideLabels=E0E0E0&sideNums=E0E0E0&currStreakLabel=A366FF&currStreakNum=E0E0E0" alt="GitHub Streaks" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ballasaisampath&hide_border=true&bg_color=1E1E1E&color=A366FF" alt="Activity Graph" />
 </p>
-
 ---
 
 ### 🏆 Trophies & Top Languages
@@ -99,7 +98,6 @@ I work with a variety of modern technologies across the full stack.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ballasaisampath&layout=compact&theme=tokyonight&hide_border=true&title_color=F97316&icon_color=F97316&text_color=E0E0E0&bg_color=1E1E1E" alt="Top Languages" />
 </div>
 
----
 
 ---
 
