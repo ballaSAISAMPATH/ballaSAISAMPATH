@@ -100,9 +100,27 @@ I work with a variety of modern technologies across the full stack.
 ### 🏆 Trophies & Top Languages
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ballasaisampath&theme=onestar&no-frame=true&column=6" alt="GitHub Trophies" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ballasaisampath&layout=compact&theme=tokyonight&hide_border=true&title_color=F97316&icon_color=F97316&text_color=E0E0E0&bg_color=1E1E1E" alt="Top Languages" />
+
+<table>
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-profile-trophy.vercel.app/?username=ballasaisampath&theme=dark&no-frame=true&column=6"
+        alt="GitHub Trophies"
+        width="350"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ballasaisampath&layout=compact&hide_border=true&title_color=9D7FE0&text_color=E0E0E0&bg_color=1F1B24" 
+        alt="Top Languages"
+        width="550" 
+        height="320"
+      />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 
