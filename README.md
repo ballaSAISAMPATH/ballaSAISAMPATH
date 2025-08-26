@@ -1,6 +1,9 @@
-
-
 <h1 align="center">Hi there 👋, I'm BALLA SAI SAMPATH</h1>
+
+<!-- Subtle background graphic -->
+<p align="center">
+  <img src="https://www.svgrepo.com/show/354113/abstract-shape.svg" width="1000" style="opacity:0.05; position: absolute; z-index: -1;" />
+</p>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&repeat=true&width=1000&lines=MERN+Stack+Developer+%7C+AI+Explorer;Building+Clean+UIs+with+Reusable+Components;Deploying+Fullstack+WebApps;Open+Source+Contributor+%26+Community+Learner;Always+Curious.+Always+Coding.;Collaborating+to+Build+Better+Software;Learning+by+Doing%2C+Improving+Every+Day;Focusing+on+Problem-Solving+Over+Perfection;Translating+Ideas+into+Functional+Interfaces;Passionate+About+Writing+Readable%2C+Scalable+Code;Driven+by+Curiosity%2C+Grounded+in+Simplicity;Turning+Feedback+into+Features" alt="Typing animation" />
@@ -29,8 +32,6 @@
 
 ---
 
-
-
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -48,8 +49,6 @@
 ---
 
 ### 🛠️ My Toolkit
-
-I work with a variety of modern technologies across the full stack.
 
 <div align="center">
   <h4>Frontend</h4>
@@ -84,8 +83,7 @@ I work with a variety of modern technologies across the full stack.
 
 ---
 
-
-### 📊 My GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ballasaisampath&show_icons=true&hide_border=true&title_color=A366FF&icon_color=A366FF&text_color=E0E0E0&bg_color=1E1E1E" alt="GitHub Stats" />
@@ -95,6 +93,7 @@ I work with a variety of modern technologies across the full stack.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ballasaisampath&hide_border=true&bg_color=1E1E1E&color=A366FF" alt="Activity Graph" />
 </p>
+
 ---
 
 ### 🏆 Trophies & Top Languages
@@ -105,9 +104,9 @@ I work with a variety of modern technologies across the full stack.
   <tr>
     <td align="center">
       <img 
-        src="https://github-profile-trophy.vercel.app/?username=ballasaisampath&theme=dark&no-frame=true&column=6"
+        src="https://github-profile-trophy.vercel.app/?username=ballasaisampath&theme=onedark&no-frame=true&column=3"
         alt="GitHub Trophies"
-        width="350"
+        width="400"
       />
     </td>
     <td align="center">
@@ -123,7 +122,6 @@ I work with a variety of modern technologies across the full stack.
 
 </div>
 
-
 ---
 
 ### 🌟 Featured Projects
@@ -133,55 +131,34 @@ I work with a variety of modern technologies across the full stack.
     <tr>
       <td width="50%" align="center">
         <h4>🍽️ <a href="https://github.com/ballaSAISAMPATH/MVGR_canteen-React">MVGR Canteen</a></h4>
-        <img src="https://via.placeholder.com/400x200.png?text=MVGR+Canteen+Image" alt="MVGR Canteen Project" style="width:100%; max-width:400px;" />
+        <img src="https://github.com/ballaSAISAMPATH/MVGR_canteen-React/raw/main/demo.png" alt="MVGR Canteen Project" style="width:100%; max-width:400px;" />
         <p>A digital platform for the MVGR college canteen to streamline online orders and improve efficiency.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-        </p>
       </td>
       <td width="50%" align="center">
         <h4>🧠 <a href="https://github.com/ballaSAISAMPATH/SentimentAnalysis-MERN">Sentiment Analyzer</a></h4>
-        <img src="https://via.placeholder.com/400x200.png?text=Sentiment+Analyzer+Image" alt="Sentiment Analyzer Project" style="width:100%; max-width:400px;" />
+        <img src="https://github.com/ballaSAISAMPATH/SentimentAnalysis-MERN/raw/main/demo.png" alt="Sentiment Analyzer Project" style="width:100%; max-width:400px;" />
         <p>An AI-powered tool that analyzes customer feedback to provide product-wise sentiment summaries.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-          <img src="https://img.shields.io/badge/Hugging%20Face-FFD21A?style=for-the-badge&logo=huggingface&logoColor=black" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        </p>
         <b>🏆 National-level hackathon winner</b>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <h4>🛒 <a href="https://github.com/ballaSAISAMPATH/ShopSphere-MERN">ShopSphere</a></h4>
-        <img src="https://via.placeholder.com/400x200.png?text=ShopSphere+Image" alt="ShopSphere Project" style="width:100%; max-width:400px;" />
+        <img src="https://github.com/ballaSAISAMPATH/ShopSphere-MERN/raw/main/demo.png" alt="ShopSphere Project" style="width:100%; max-width:400px;" />
         <p>Connects local businesses with a wider online customer base to boost visibility and sales.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        </p>
       </td>
       <td width="50%" align="center">
         <h4>⚡ <a href="https://github.com/ballaSAISAMPATH/RushToGo">RushToGo</a></h4>
-        <img src="https://via.placeholder.com/400x200.png?text=RushToGo+Image" alt="RushToGo Project" style="width:100%; max-width:400px;" />
+        <img src="https://github.com/ballaSAISAMPATH/RushToGo/raw/main/demo.png" alt="RushToGo Project" style="width:100%; max-width:400px;" />
         <p>A fast-delivery ticket resale platform with secure returns and discounted pricing.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-        </p>
         <b>🏆 National-level hackathon winner</b>
       </td>
     </tr>
   </table>
 </div>
 
-### Let's build something together!
+---
+
+### 💬 Let's build something together!
 
 I'm always open to new ideas and collaborations. If you have a project in mind or just want to chat about tech, feel free to connect with me!
