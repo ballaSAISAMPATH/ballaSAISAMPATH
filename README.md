@@ -12,17 +12,24 @@
 
 ---
 
-### 👨‍💻 About Me:
+## 👨‍💻 About Me  
 
-I'm a **MERN Stack Developer** dedicated to building elegant and scalable web applications. My focus is on crafting clean, efficient solutions that solve real-world problems. I'm currently exploring the integration of **AI capabilities** into full-stack projects.
-
--   🔭 **Currently building:** AI-infused MERN applications
--   🌱 **Learning:** Scalable system design and advanced deployment pipelines
--   💪 **Looking to collaborate on:** Full-stack projects that make a real-world impact
--   📧 **Reach me at:** saisampath1612@gmail.com
--   ⚡ **Fun fact:** I once built a full-stack MVP in 36 hours and won the sprint, but I still spend hours arguing with `undefined`.
+💡 Passionate **MERN Stack Developer** dedicated to building **scalable & elegant** web applications.  
+🚀 Exploring the integration of **AI** into full-stack projects to solve real-world problems.  
 
 ---
+
+### 🔥 Quick Facts  
+
+- 🔭 **Currently working on:** AI-infused MERN applications  
+- 🌱 **Learning:** Scalable system design & advanced deployment pipelines  
+- 🤝 **Collaboration:** Open to impactful full-stack & AI-driven projects  
+- 📧 **Reach me at:** [![Email](https://img.shields.io/badge/Email-saisampath1612%40gmail.com-red?logo=gmail&logoColor=white)](mailto:saisampath1612@gmail.com)  
+- ⚡ **Fun fact:** Built a full-stack MVP in **36 hours** (and won 🏆) … but still argues with `undefined`.  
+
+---
+
+
 
 ### 🌐 Connect with Me
 
