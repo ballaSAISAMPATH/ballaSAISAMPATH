@@ -130,40 +130,7 @@
 
 ---
 
-### 🌟 Featured Projects
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <h4>🍽️ <a href="https://github.com/ballaSAISAMPATH/MVGR_canteen-React">MVGR Canteen</a></h4>
-        <img src="https://github.com/ballaSAISAMPATH/MVGR_canteen-React/raw/main/demo.png" alt="MVGR Canteen Project" style="width:100%; max-width:400px;" />
-        <p>A digital platform for the MVGR college canteen to streamline online orders and improve efficiency.</p>
-      </td>
-      <td width="50%" align="center">
-        <h4>🧠 <a href="https://github.com/ballaSAISAMPATH/SentimentAnalysis-MERN">Sentiment Analyzer</a></h4>
-        <img src="https://github.com/ballaSAISAMPATH/SentimentAnalysis-MERN/raw/main/demo.png" alt="Sentiment Analyzer Project" style="width:100%; max-width:400px;" />
-        <p>An AI-powered tool that analyzes customer feedback to provide product-wise sentiment summaries.</p>
-        <b>🏆 National-level hackathon winner</b>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h4>🛒 <a href="https://github.com/ballaSAISAMPATH/ShopSphere-MERN">ShopSphere</a></h4>
-        <img src="https://github.com/ballaSAISAMPATH/ShopSphere-MERN/raw/main/demo.png" alt="ShopSphere Project" style="width:100%; max-width:400px;" />
-        <p>Connects local businesses with a wider online customer base to boost visibility and sales.</p>
-      </td>
-      <td width="50%" align="center">
-        <h4>⚡ <a href="https://github.com/ballaSAISAMPATH/RushToGo">RushToGo</a></h4>
-        <img src="https://github.com/ballaSAISAMPATH/RushToGo/raw/main/demo.png" alt="RushToGo Project" style="width:100%; max-width:400px;" />
-        <p>A fast-delivery ticket resale platform with secure returns and discounted pricing.</p>
-        <b>🏆 National-level hackathon winner</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ### 💬 Let's build something together!
 
