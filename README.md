@@ -5,7 +5,6 @@
     <path fill="#1E1E1E" fill-opacity="1" d="M0,32L48,48C96,64,192,96,288,96C384,96,480,64,576,58.7C672,53,768,75,864,80C960,85,1056,75,1152,69.3C1248,64,1344,64,1392,64L1440,64L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
   </svg>
 </div>
-
 <!-- Subtle background graphic -->
 <p align="center">
   <img src="https://www.svgrepo.com/show/354113/abstract-shape.svg" width="1000" style="opacity:0.05; position: absolute; z-index: -1;" />
