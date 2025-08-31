@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm BALLA SAI SAMPATH</h1>
 <!-- Top Wave -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shahednasser/awesome-svg-wave/master/wave.svg" width="100%" />
-</p>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&repeat=true&width=1000&lines=MERN+Stack+Developer+%7C+AI+Explorer;Building+Clean+UIs+with+Reusable+Components;Deploying+Fullstack+WebApps;Open+Source+Contributor+%26+Community+Learner;Always+Curious.+Always+Coding.;Collaborating+to+Build+Better+Software;Learning+by+Doing%2C+Improving+Every+Day;Focusing+on+Problem-Solving+Over+Perfection;Translating+Ideas+into+Functional+Interfaces;Passionate+About+Writing+Readable%2C+Scalable+Code;Driven+by+Curiosity%2C+Grounded+in+Simplicity;Turning+Feedback+into+Features" alt="Typing animation" />
@@ -88,7 +86,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ballasaisampath&show_icons=true&hide_border=true&title_color=A366FF&icon_color=A366FF&text_color=E0E0E0&bg_color=1E1E1E" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=ballasaisampath&hide_border=true&background=1E1E1E&ring=A366FF&fire=A366FF&stroke=1E1E1E&date_format=Y-M-d&dates=E0E0E0&sideLabels=E0E0E0&sideNums=E0E0E0&currStreakLabel=A366FF&currStreakNum=E0E0E0" alt="GitHub Streaks" />
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=90&section=footer" width="100%" height="90"/>
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ballasaisampath&hide_border=true&bg_color=1E1E1E&color=A366FF" alt="Activity Graph" />
 </p>
