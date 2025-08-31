@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋, I'm BALLA SAI SAMPATH</h1>
 <!-- Top Wave -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shahednasser/awesome-svg-wave/master/wave.svg" width="100%" />
+</p>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&repeat=true&width=1000&lines=MERN+Stack+Developer+%7C+AI+Explorer;Building+Clean+UIs+with+Reusable+Components;Deploying+Fullstack+WebApps;Open+Source+Contributor+%26+Community+Learner;Always+Curious.+Always+Coding.;Collaborating+to+Build+Better+Software;Learning+by+Doing%2C+Improving+Every+Day;Focusing+on+Problem-Solving+Over+Perfection;Translating+Ideas+into+Functional+Interfaces;Passionate+About+Writing+Readable%2C+Scalable+Code;Driven+by+Curiosity%2C+Grounded+in+Simplicity;Turning+Feedback+into+Features" alt="Typing animation" />
