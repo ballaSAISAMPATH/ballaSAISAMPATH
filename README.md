@@ -9,8 +9,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ballasaisampath&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
----
-## 👨‍💻 About Me  
+
+### 👨‍💻 About Me  
 
 💡 Passionate **MERN Stack Developer** dedicated to building **scalable & elegant** web applications.  
 🚀 Exploring the integration of **AI** into full-stack projects to solve real-world problems.  
