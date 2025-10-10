@@ -141,27 +141,6 @@
 | **📊 Sentiment Analysis** | 🏛️ IIT Kharagpur Winner | MERN + NLP<br/>Hugging Face<br/>React Dashboards | **92%** accuracy<br/>**10GB+** datasets<br/>Real-time processing | E-commerce analytics<br/>Live dashboards<br/>36-hour hackathon win |
 | **🎫 RushToGo** | 💰 ₹1 Lakh National Prize | AI Platform<br/>Fraud Prevention<br/>Real-time Systems | **₹1,00,000** prize<br/>Commission monetization<br/>User verification | Ticket resale platform<br/>Anti-fraud systems<br/>AITAM National Winner |
 
-## 📊 Portfolio Summary
-
-| **Metric** | **Achievement** |
-|------------|-----------------|
-| 🏆 **Competition Wins** | 4 Major Hackathons |
-| 💰 **Total Prize Money** | ₹1,00,000+ |
-| ⚡ **Performance Boost** | Up to 40% improvement |
-| 🎯 **ML Accuracy** | 92% on production datasets |
-| 🔧 **Tech Expertise** | AI/ML • MERN • Docker • NLP |
-| 📈 **Data Processing** | 1TB+ vector databases |
-
-## 🛠️ Technology Stack
-
-| **Category** | **Technologies** |
-|--------------|------------------|
-| **🤖 AI/ML** | Generative AI • Hugging Face • Vector DB • NLP • Multi-modal |
-| **⚙️ Backend** | Node.js • Python • Docker • Microservices • Express |
-| **🎨 Frontend** | React • Streamlit • Dashboard Visualization |
-| **💾 Database** | MongoDB • Vector Storage • Real-time Processing |
-| **🏗️ DevOps** | Docker • Microservices • Offline Architecture |
-
 
 ### 💼 Professional Experience
 
