@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm BALLA SAI SAMPATH</h1>
+<h1 align="center">Hi there, I'm BALLA SAI SAMPATH</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&repeat=true&width=1200&lines=Generative+AI+Engineer+%26+Full-Stack+Developer;3%2B+Years+Crafting+AI+EcoSystems;Two-Time+National+Hackathon+Winner+🏆;MERN+%2B+AI+Integration+Specialist;Building+Multi-Agent+AI+Systems;Offline+AI+Teaching+Assistant+Creator;Docker+Microservices+Architecture;Enterprise+AI+Solutions+Developer;Institution+Innovation+Council+Member;Speaker+%26+Technical+Workshop+Leader" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&repeat=true&width=1200&lines=Generative+AI+Engineer+%26+Full-Stack+Developer;3%2B+Years+Crafting+AI+EcoSystems;Two-Time+National+Hackathon+Winner;MERN+%2B+AI+Integration+Specialist;Building+Multi-Agent+AI+Systems;Offline+AI+Teaching+Assistant+Creator;Docker+Microservices+Architecture;Enterprise+AI+Solutions+Developer;Institution+Innovation+Council+Member;Speaker+%26+Technical+Workshop+Leader" alt="Typing animation" />
 </h3>
 
 <p align="center">
@@ -10,24 +10,24 @@
 
 ### About Me  
 
- **Generative AI Engineer** crafting intelligent AI ecosystems  
- Specialized in **MERN Stack + AI Integration** with 3+ years experience delivering measurable business impact for enterprise solutions  
-  **Two-Time National Hackathon Winner** * at  IIT Kharagpur & AITAM National Hackathon
+**Generative AI Engineer** crafting intelligent AI ecosystems  
+Specialized in **MERN Stack + AI Integration** with 3+ years experience delivering measurable business impact for enterprise solutions  
+**Two-Time National Hackathon Winner** at IIT Kharagpur & AITAM National Hackathon
 
 ---
 
-### 🔥 Quick Facts  
+### Quick Facts  
 
--  **CSE Student** at MVGR College (CGPA: 8.94) | Graduating April 2026  
--  **Currently building:** Gen AI - Comprehensive AI-powered business planning ecosystem  
--  **Major Wins:** ₹1,00,000 National Hackathon Prize + IIT Kharagpur AI Champion  
--  **Speaker Experience:** 150+ students trained in MERN & AI workshops  
--  **Contact:** [![Email](https://img.shields.io/badge/Email-saisampath1612%40gmail.com-red?logo=gmail&logoColor=white)](mailto:saisampath1612@gmail.com)  
--  **Fun fact:** Built **multi-agent AI systems** in 24 hours and won institutional hackathons!  
+- **CSE Student** at MVGR College (CGPA: 8.94) | Graduating April 2026  
+- **Currently building:** Gen AI - Comprehensive AI-powered business planning ecosystem  
+- **Major Wins:** ₹1,00,000 National Hackathon Prize + IIT Kharagpur AI Champion  
+- **Speaker Experience:** 150+ students trained in MERN & AI workshops  
+- **Contact:** [![Email](https://img.shields.io/badge/Email-saisampath1612%40gmail.com-red?logo=gmail&logoColor=white)](mailto:saisampath1612@gmail.com)  
+- **Fun fact:** Built **multi-agent AI systems** in 24 hours and won institutional hackathons!  
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sai-sampath-balla" target="_blank">
@@ -43,7 +43,7 @@
 
 ---
 
-### 🛠️ My Technical Arsenal
+### My Technical Arsenal
 
 <div align="center">
   <h4>Languages & Core</h4>
@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
-    <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=" />
+    <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge" />
   </p>
   
   <h4>Databases</h4>
@@ -83,7 +83,7 @@
 
 ---
 
-### 🤖 Generative AI & Advanced Technologies
+### Generative AI & Advanced Technologies
 
 <div align="center">
   <h4>AI/ML & NLP</h4>
@@ -117,7 +117,7 @@
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
     <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
     <img src="https://img.shields.io/badge/CustomGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spline_3D-FF3366?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=" />
+    <img src="https://img.shields.io/badge/Spline_3D-FF3366?style=for-the-badge" />
   </p>
   
   <h4>Currently Exploring</h4>
@@ -131,49 +131,48 @@
 
 ---
 
-# 🚀 AI-Powered Projects Portfolio
+# AI-Powered Projects Portfolio
 
-| **Project** | **🏆 Achievement** | **🔧 Tech Stack** | **📈 Impact & Metrics** | **⭐ Key Features** |
-|-------------|-------------------|-------------------|-------------------------|-------------------|
-| **🤖 NEXGENT AI** | 🥇 24hr Hackathon Winner | Generative AI<br/>MERN Stack<br/>Multi-modal Reasoning | Multi-agent coordination<br/>Business transformation<br/>ROI visualizations | Intent disambiguation<br/>Semantic decomposition<br/>Predictive simulations |
-| **🎓 AI Tutor** | Educational Infrastructure | Streamlit<br/>Python<br/>Docker<br/>Vector Databases | **40%** faster completion<br/>**<7s** offline response<br/>**1TB+** data processing | Offline-first architecture<br/>Multilingual support<br/>Interactive lessons |
-| **🎯 AI TaskFlow** | 🚀 Current Development | MERN + Gen AI<br/>Gemini-flash<br/>Adaptive Analytics | **<5s** response time<br/>**40%** learning improvement<br/>Personalized roadmaps | Resume optimization<br/>Intelligent tutoring<br/>Learning ecosystem |
-| **📊 Sentiment Analysis** | 🏛️ IIT Kharagpur Winner | MERN + NLP<br/>Hugging Face<br/>React Dashboards | **92%** accuracy<br/>**10GB+** datasets<br/>Real-time processing | E-commerce analytics<br/>Live dashboards<br/>36-hour hackathon win |
-| **🎫 RushToGo** | 💰 ₹1 Lakh National Prize | AI Platform<br/>Fraud Prevention<br/>Real-time Systems | **₹1,00,000** prize<br/>Commission monetization<br/>User verification | Ticket resale platform<br/>Anti-fraud systems<br/>AITAM National Winner |
+| **Project** | **Achievement** | **Tech Stack** | **Impact & Metrics** | **Key Features** |
+|-------------|-----------------|-----------------|---------------------|------------------|
+| **NEXGENT AI** | 24hr Hackathon Winner | Generative AI<br/>MERN Stack<br/>Multi-modal Reasoning | Multi-agent coordination<br/>Business transformation<br/>ROI visualizations | Intent disambiguation<br/>Semantic decomposition<br/>Predictive simulations |
+| **AI Tutor** | Educational Infrastructure | Streamlit<br/>Python<br/>Docker<br/>Vector Databases | **40%** faster completion<br/>**<7s** offline response<br/>**1TB+** data processing | Offline-first architecture<br/>Multilingual support<br/>Interactive lessons |
+| **AI TaskFlow** | Current Development | MERN + Gen AI<br/>Gemini-flash<br/>Adaptive Analytics | **<5s** response time<br/>**40%** learning improvement<br/>Personalized roadmaps | Resume optimization<br/>Intelligent tutoring<br/>Learning ecosystem |
+| **Sentiment Analysis** | IIT Kharagpur Winner | MERN + NLP<br/>Hugging Face<br/>React Dashboards | **92%** accuracy<br/>**10GB+** datasets<br/>Real-time processing | E-commerce analytics<br/>Live dashboards<br/>36-hour hackathon win |
+| **RushToGo** | ₹1 Lakh National Prize | AI Platform<br/>Fraud Prevention<br/>Real-time Systems | **₹1,00,000** prize<br/>Commission monetization<br/>User verification | Ticket resale platform<br/>Anti-fraud systems<br/>AITAM National Winner |
 
-
-## 💼 **Professional Experience**
+## Professional Experience
 
 <table>
 <thead>
 <tr>
-<th width="25%">🏢 <strong>Company & Role</strong></th>
-<th width="20%">📅 <strong>Duration</strong></th>
-<th width="30%">🔧 <strong>Tech & Responsibilities</strong></th>
-<th width="25%">📈 <strong>Impact & Achievements</strong></th>
+<th width="25%"><strong>Company & Role</strong></th>
+<th width="20%"><strong>Duration</strong></th>
+<th width="30%"><strong>Tech & Responsibilities</strong></th>
+<th width="25%"><strong>Impact & Achievements</strong></th>
 </tr>
 </thead>
 <tbody>
 
 <tr>
-<td><strong>🔬 AI Research Intern</strong><br/><sub>NIT Warangal</sub></td>
+<td><strong>AI Research Intern</strong><br/><sub>NIT Warangal</sub></td>
 <td><code>May-June 2025</code><br/><sub>2 months</sub></td>
-<td><code>Machine Learning</code><br/><code>GEDINET Model</code><br/><code>DisGeNET Dataset</code><br/>🧬 Gene-disease association</td>
-<td>🎯 <strong>87% → 95%</strong> accuracy<br/>🔬 Advanced ML techniques<br/>📊 Research optimization</td>
+<td><code>Machine Learning</code><br/><code>GEDINET Model</code><br/><code>DisGeNET Dataset</code><br/>Gene-disease association</td>
+<td><strong>87% → 95%</strong> accuracy<br/>Advanced ML techniques<br/>Research optimization</td>
 </tr>
 
 <tr>
-<td><strong>⚡ Scrum Master Intern</strong><br/><sub>Infosys</sub></td>
+<td><strong>Scrum Master Intern</strong><br/><sub>Infosys</sub></td>
 <td><code>Dec 2024-Feb 2025</code><br/><sub>3 months</sub></td>
-<td><code>MEAN Stack</code><br/><code>Agile Scrum</code><br/><code>Authentication</code><br/>🏪 Restaurant Management</td>
-<td>✅ Enterprise standards<br/>🔐 Role-based auth<br/>📋 Agile methodology</td>
+<td><code>MEAN Stack</code><br/><code>Agile Scrum</code><br/><code>Authentication</code><br/>Restaurant Management</td>
+<td>Enterprise standards<br/>Role-based auth<br/>Agile methodology</td>
 </tr>
 
 <tr>
-<td><strong>💻 MERN Developer</strong><br/><sub>Cyber Tetra</sub></td>
+<td><strong>MERN Developer</strong><br/><sub>Cyber Tetra</sub></td>
 <td><code>June-July 2025</code><br/><sub>2 months</sub></td>
-<td><code>MERN Stack</code><br/><code>JWT Authentication</code><br/><code>Security Protocols</code><br/>🌐 Enterprise Web Apps</td>
-<td>🚀 <strong>35%</strong> efficiency boost<br/>🔒 Security implementation<br/>📱 2 enterprise applications</td>
+<td><code>MERN Stack</code><br/><code>JWT Authentication</code><br/><code>Security Protocols</code><br/>Enterprise Web Apps</td>
+<td><strong>35%</strong> efficiency boost<br/>Security implementation<br/>2 enterprise applications</td>
 </tr>
 
 </tbody>
@@ -189,28 +188,27 @@
 
 </div>
 
+### Major Achievements & Recognition
 
-### 🏆 Major Achievements & Recognition
-
-**🥇 National Hackathon Victories**
+**National Hackathon Victories**
 - **₹1,00,000 Winner** - AITAM National Hackathon (RushToGo Platform)
 - **Champion** - IIT Kharagpur National Hackathon (AI Sentiment Analysis)
 - **Winner** - Institutional Hackathon Sankalp 2025 (NEXGENT AI)
 
-**🎤 Technical Leadership**
+**Technical Leadership**
 - **Speaker** - Freedom Fest 2024 (100+ attendees MERN workshop)
 - **Speaker** - Software Freedom Day 2025 (50+ students AI workshop)
 - **Member** - Institutional Innovation Council (IIC)
 - **Core Member** - SWECHA MVGR (AI solutions development)
 
-**📜 Professional Certifications**
+**Professional Certifications**
 - **NPTEL**: Cloud Computing, Problem Solving, Leadership
 - **Infosys**: Agile, Node.js, Python, Bootstrap 5
 - **Udemy**: Complete Web Development Bootcamp
 
 ---
 
-### 📊 GitHub Stats & Achievements
+### GitHub Stats & Achievements
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ballasaisampath&show_icons=true&hide_border=true&title_color=A366FF&icon_color=A366FF&text_color=E0E0E0&bg_color=1E1E1E" alt="GitHub Stats" width="48%" />
@@ -245,11 +243,11 @@
 
 ---
 
-### 💬 Let's Innovate Together!
+### Let's Innovate Together!
 
 I'm passionate about building **AI-driven solutions** that solve real-world problems. Whether it's **enterprise AI integration**, **hackathon collaboration**, or **technical mentorship** - let's create something impactful!
 
-🎯 **Open to**: Generative AI projects, Full-stack + AI integration, Technical speaking opportunities, Innovation challenges
+**Open to**: Generative AI projects, Full-stack + AI integration, Technical speaking opportunities, Innovation challenges
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=90&section=footer" width="100%" height="90"/>
