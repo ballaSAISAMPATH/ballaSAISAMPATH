@@ -8,22 +8,22 @@
   <img src="https://komarev.com/ghpvc/?username=ballasaisampath&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### 👨‍💻 About Me  
+### About Me  
 
-🏆 **Two-Time National Hackathon Winner** & **Generative AI Engineer** with 3+ years crafting intelligent AI ecosystems  
-🎯 Specialized in **MERN Stack + AI Integration** delivering measurable business impact for enterprise solutions  
-🚀 **₹1 Lakh Prize Winner** at AITAM National Hackathon & **IIT Kharagpur Hackathon Champion**  
+ **Generative AI Engineer** with 3+ years crafting intelligent AI ecosystems  
+ Specialized in **MERN Stack + AI Integration** delivering measurable business impact for enterprise solutions  
+  **Two-Time National Hackathon Winner** * at AITAM National Hackathon & **IIT Kharagpur **  
 
 ---
 
 ### 🔥 Quick Facts  
 
-- 🎓 **CSE Student** at MVGR College (CGPA: 8.94) | Graduating April 2026  
-- 🔭 **Currently building:** AI TaskFlow - Comprehensive AI-powered learning ecosystem  
-- 🏆 **Major Wins:** ₹1,00,000 National Hackathon Prize + IIT Kharagpur AI Champion  
-- 🎤 **Speaker Experience:** 150+ students trained in MERN & AI workshops  
-- 📧 **Contact:** [![Email](https://img.shields.io/badge/Email-saisampath1612%40gmail.com-red?logo=gmail&logoColor=white)](mailto:saisampath1612@gmail.com)  
-- ⚡ **Fun fact:** Built **multi-agent AI systems** in 24 hours and won institutional hackathons!  
+-  **CSE Student** at MVGR College (CGPA: 8.94) | Graduating April 2026  
+-  **Currently building:** Gen AI - Comprehensive AI-powered business planning ecosystem  
+-  **Major Wins:** ₹1,00,000 National Hackathon Prize + IIT Kharagpur AI Champion  
+-  **Speaker Experience:** 150+ students trained in MERN & AI workshops  
+-  **Contact:** [![Email](https://img.shields.io/badge/Email-saisampath1612%40gmail.com-red?logo=gmail&logoColor=white)](mailto:saisampath1612@gmail.com)  
+-  **Fun fact:** Built **multi-agent AI systems** in 24 hours and won institutional hackathons!  
 
 ---
 
