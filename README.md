@@ -142,24 +142,53 @@
 | **🎫 RushToGo** | 💰 ₹1 Lakh National Prize | AI Platform<br/>Fraud Prevention<br/>Real-time Systems | **₹1,00,000** prize<br/>Commission monetization<br/>User verification | Ticket resale platform<br/>Anti-fraud systems<br/>AITAM National Winner |
 
 
-### 💼 Professional Experience
+## 💼 **Professional Experience**
 
-**🔬 AI Research Intern | NIT Warangal** (May-June 2025)
-- Improved **GEDINET model accuracy from 87% to 95%**
-- Specialized in **gene-disease association** using DisGeNET dataset
-- Applied advanced **Machine Learning** techniques
+<table>
+<thead>
+<tr>
+<th width="25%">🏢 <strong>Company & Role</strong></th>
+<th width="20%">📅 <strong>Duration</strong></th>
+<th width="30%">🔧 <strong>Tech & Responsibilities</strong></th>
+<th width="25%">📈 <strong>Impact & Achievements</strong></th>
+</tr>
+</thead>
+<tbody>
 
-**⚡ Scrum Master Intern | Infosys** (Dec 2024-Feb 2025)
-- Built **Restaurant Management System** using MEAN stack
-- Implemented **Agile Scrum Methodology** and role-based authentication
-- Delivered under enterprise development standards
+<tr>
+<td><strong>🔬 AI Research Intern</strong><br/><sub>NIT Warangal</sub></td>
+<td><code>May-June 2025</code><br/><sub>2 months</sub></td>
+<td><code>Machine Learning</code><br/><code>GEDINET Model</code><br/><code>DisGeNET Dataset</code><br/>🧬 Gene-disease association</td>
+<td>🎯 <strong>87% → 95%</strong> accuracy<br/>🔬 Advanced ML techniques<br/>📊 Research optimization</td>
+</tr>
 
-**💻 MERN Developer | Cyber Tetra** (June-July 2025)
-- Developed **2 enterprise web applications**
-- Achieved **35% business efficiency improvement**
-- Implemented **JWT authentication** and security protocols
+<tr>
+<td><strong>⚡ Scrum Master Intern</strong><br/><sub>Infosys</sub></td>
+<td><code>Dec 2024-Feb 2025</code><br/><sub>3 months</sub></td>
+<td><code>MEAN Stack</code><br/><code>Agile Scrum</code><br/><code>Authentication</code><br/>🏪 Restaurant Management</td>
+<td>✅ Enterprise standards<br/>🔐 Role-based auth<br/>📋 Agile methodology</td>
+</tr>
+
+<tr>
+<td><strong>💻 MERN Developer</strong><br/><sub>Cyber Tetra</sub></td>
+<td><code>June-July 2025</code><br/><sub>2 months</sub></td>
+<td><code>MERN Stack</code><br/><code>JWT Authentication</code><br/><code>Security Protocols</code><br/>🌐 Enterprise Web Apps</td>
+<td>🚀 <strong>35%</strong> efficiency boost<br/>🔒 Security implementation<br/>📱 2 enterprise applications</td>
+</tr>
+
+</tbody>
+</table>
 
 ---
+
+<div align="center">
+
+![Experience](https://img.shields.io/badge/Total%20Experience-7%20Months-blue?style=for-the-badge)
+![Companies](https://img.shields.io/badge/Companies-3-green?style=for-the-badge)
+![Efficiency](https://img.shields.io/badge/Efficiency%20Boost-35%25-orange?style=for-the-badge)
+
+</div>
+
 
 ### 🏆 Major Achievements & Recognition
 
