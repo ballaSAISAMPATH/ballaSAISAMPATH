@@ -191,8 +191,8 @@ Specialized in **MERN Stack + AI Integration** with 3+ years experience deliveri
 ### Major Achievements & Recognition
 
 **National Hackathon Victories**
-- **₹1,00,000 Winner** - AITAM National Hackathon (RushToGo Platform)
-- **Champion** - IIT Kharagpur National Hackathon (AI Sentiment Analysis)
+- **Winner** - AITAM National Hackathon with cash prize ₹1,00,000 (RushToGo Platform)
+- **Winner** - IIT Kharagpur National Hackathon (AI Sentiment Analysis)
 - **Winner** - Institutional Hackathon Sankalp 2025 (NEXGENT AI)
 
 **Technical Leadership**
