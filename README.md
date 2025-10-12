@@ -169,8 +169,8 @@ Specialized in **MERN Stack + AI Integration** with 3+ years experience deliveri
 </tr>
 
 <tr>
-<td><strong>MERN Developer</strong><br/><sub>Cyber Tetra</sub></td>
-<td><code>June-July 2025</code><br/><sub>2 months</sub></td>
+<td><strong>MERN Developer</strong><br/><sub>CyberLynk</sub></td>
+<td><code>June-Current 2025</code><br/><sub>4+ months</sub></td>
 <td><code>MERN Stack</code><br/><code>JWT Authentication</code><br/><code>Security Protocols</code><br/>Enterprise Web Apps</td>
 <td><strong>35%</strong> efficiency boost<br/>Security implementation<br/>2 enterprise applications</td>
 </tr>
