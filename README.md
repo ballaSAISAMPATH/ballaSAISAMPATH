@@ -10,10 +10,10 @@
 
 ### About Me  
 
-**Generative AI Engineer** crafting intelligent AI ecosystems  
-Specialized in **MERN Stack + AI** with 3+ years experience delivering measurable business impact for enterprise solutions  
-**Two-Time National Hackathon Winner** at IIT Kharagpur & AITAM National Hackathon
-freelancer
+- **Generative AI Engineer** crafting intelligent AI ecosystems  
+- Specialized in **MERN Stack + AI** with 3+ years experience delivering measurable business impact for enterprise solutions  
+- **Two-Time National Hackathon Winner** at IIT Kharagpur & AITAM National Hackathon
+- passive time freelancer
 ---
 
 ### Quick Facts  
