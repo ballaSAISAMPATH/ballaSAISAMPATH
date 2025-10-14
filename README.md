@@ -180,14 +180,6 @@
 
 ---
 
-<div align="center">
-
-![Experience](https://img.shields.io/badge/Total%20Experience-7%20Months-blue?style=for-the-badge)
-![Companies](https://img.shields.io/badge/Companies-3-green?style=for-the-badge)
-![Efficiency](https://img.shields.io/badge/Efficiency%20Boost-35%25-orange?style=for-the-badge)
-
-</div>
-
 ### Major Achievements & Recognition
 
 **National Hackathon Victories**
