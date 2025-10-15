@@ -19,7 +19,7 @@
 ### Quick Facts  
 
 - **CSE Student** at MVGR College (CGPA: 8.94) | Graduating April 2026  
-- **Currently building:** Gen AI - Comprehensive AI-powered business planning ecosystem  
+- **Currently building:** NExGent - Comprehensive AI-powered business planning ecosystem  
 - **Major Wins:** ₹1,00,000 National Hackathon Prize + IIT Kharagpur AI Champion  
 - **Speaker Experience:** 150+ students trained in MERN & AI workshops  
 - **Contact:** [![Email](https://img.shields.io/badge/Email-saisampath1612%40gmail.com-red?logo=gmail&logoColor=white)](mailto:saisampath1612@gmail.com)  
