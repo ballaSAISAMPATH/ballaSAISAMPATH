@@ -92,7 +92,6 @@
     <img src="https://img.shields.io/badge/LangChain-10A37F?style=for-the-badge&logo=chainlink&logoColor=white" />
     <img src="https://img.shields.io/badge/Generative_AI-FF4081?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   </p>
   
   <h4>DevOps & Testing</h4>
